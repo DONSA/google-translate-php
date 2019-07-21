@@ -1,13 +1,13 @@
 {
-    "name": "stichoza/google-translate-php",
+    "name": "donsa/google-translate-php",
     "description": "Free Google Translate API PHP Package",
     "keywords": ["google", "translate", "translator", "php"],
     "license": "MIT",
-    "homepage": "http://github.com/Stichoza/google-translate-php",
+    "homepage": "http://github.com/donsa/google-translate-php",
     "authors": [
         {
-            "name": "Levan Velijanashvili",
-            "email": "me@stichoza.com"
+            "name": "Nuno Lopes",
+            "email": "nunolopes99@gmail.com"
         }
     ],
     "require": {
